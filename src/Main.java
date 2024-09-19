@@ -4,22 +4,3 @@ public class Main{
         System.out.println("Дикий Игорь КИ-31");
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
